@@ -39,7 +39,7 @@ body {
 .edit-mode__label {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 
 .wrapper {
@@ -140,7 +140,7 @@ input, button {
 }
 
 .edit-mode__task {
-    width: 226px
+    width: 226px;
 }
 
 .edit-mode__button-img {
@@ -161,12 +161,12 @@ input, button {
 
 /* Edit Task */
 .tasks__item .edit-mode__task {
-    display: none
+    display: none;
 }
 
 .tasks__item.edit-mode .edit-mode__task {
     display: inline-block;
-    width: 224px
+    width: 224px;
 }
 
 .tasks__item.edit-mode .edit-mode__label {
